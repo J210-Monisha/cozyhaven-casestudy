@@ -5,22 +5,23 @@ PROJECT NAME : COZYHAVEN STAY
 # LOGIN DETAILS
 
 1.For Owner:
-Username:Monisha 
+Username:Monisha, 
 Password:owner123
 
 2.For admin:
-Username:admin
+Username:admin,
 Password:admin123
 
 3.For users:
 Register and login or else login using:
-Username:Alice
+
+Username:Alice,
 Password:ali123
 
-Username:Mike
+Username:Mike,
 Password:mike1234
 
-Username:Bobby
+Username:Bobby,
 Password:bob123
 
 
