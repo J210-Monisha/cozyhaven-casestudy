@@ -27,4 +27,8 @@ Password:bob123
 # CASESTUDY-QUESTION 
 https://drive.google.com/file/d/1P7C_fKsrtuavwxvFqRUB6Hbdpjj0gZkd/view?usp=sharing
 
+# CASESTUDY-PPT
+https://docs.google.com/presentation/d/1_zW5BPxW4h-SHITXGlw8Lvbww3TtfRSv/edit?usp=sharing&ouid=109741591826006783715&rtpof=true&sd=true
+
+
 
